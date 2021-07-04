@@ -5,7 +5,7 @@
   > 할 수 있다.
 
 - div로 레이아웃을 잡고 코딩을 할 수 있다 (Box model을 이해한다)
-- 할 수 있다. Box model은 margin, border, padding, Content의 형태로 구분된다.
+  > 할 수 있다. Box model은 margin, border, padding, Content의 형태로 구분된다.
 
 - 웹 표준을 어느 정도 이해하고 있다 (DTD를 알고 있다)
 - 웹 접근성과 시맨틱한 마크업에 대해 숙지하고 있으며 관심이 깊다
