@@ -40,8 +40,11 @@
 
 ### 4. JavaScript
 - 아주 기초적인 JavaScript 문법을 알고 있다
-  >
+  > 알고있다.
 
 - Context의 역할과 this의 용법을 안다
+  > this 용법을 안다.
+
 - closure를 이해하고 익명함수를 다룰 수 있다
+
 - 각 브라우저별 JavaScript 엔진의 차이를 이해하고 크로스 브라우징이 가능한 코드를 작성할 수 있다
